@@ -169,6 +169,11 @@ ul, ol, li {
   font-size: 62px;
   margin: 0;
 }
+
+.pricing__card-top {
+  border-bottom: 2px solid black;
+}
+
 .pricing__card-bottom {
   font-size: 19px;
 }
