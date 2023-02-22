@@ -10,7 +10,8 @@ Step 2
 Using the variables above, add these variables together and multiply by 3. 
 Assign the expression to a variable called "result" and console.log its value. 
 */
-
+result = (num1 + num2) * 3;
+console.log(result);
 /*
 Step 3
 Using the result variable, write an if/else statement comparing the result to the number 50.
